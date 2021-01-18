@@ -4,4 +4,4 @@ If you tell it what ingredients you have, this program will list all the cocktai
 
 Example usage:
 ----
-![protoype run](prototype.gif)
+![protoype run](prototype_demo.gif)
