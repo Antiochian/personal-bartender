@@ -1,3 +1,7 @@
+#  Original datafile sourced from Mike Alwill
+#                       https://docs.google.com/spreadsheets/d/14OCKeCq4w6ErJCg2lQ2nuGRq3vojAg0MbueNUnD_S6o/edit?usp=sharing
+# Later additions and corrections made by me (Antiochian)
+#
 Drink	Ingredient	Amount	IngredientUse	Glass	HowToMix
 # MY RECIPES
 Simple Vodka Coke	Mexican Coca-Cola	1.5oz	Build	Solo Cup	Combine over ice, garnish with lime wedge.
@@ -31,21 +35,21 @@ Long Island Ice Tea	Lemon wedge	1	Garnish	Hurricane	Pour all ingredients into co
 212	Ruby Red Grapefruit Juice	2oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
 212	Aperol	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
 212	Orange Twist	1	Garnish	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Mint Leaf	4-5	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Cucumber Slice	2	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Orange Slice	2	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Hine V.S.O.P. Cognac	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	House Ginger Beer	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Mint Sprig	1	Garnish	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Martini Sweet Vermouth	.75oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Cherry Heering	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Lemon Juice	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#3 Cup	Marie Brizard Orange Curacao	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
-#8	Don Julio Reposado Tequila	2oz	Build	Coupe	Stir with ice and strain into a chilled coupe
-#8	House Orange Bitters	2dashes	Build	Coupe	Stir with ice and strain into a chilled coupe
-#8	Lemon Twist	1	Garnish	Coupe	Stir with ice and strain into a chilled coupe
-#8	Lustau Palo Cortado Sherry	.75oz	Build	Coupe	Stir with ice and strain into a chilled coupe
-#8	Barenjager Honey Liqueur	.5oz	Build	Coupe	Stir with ice and strain into a chilled coupe
+no.3 Cup	Mint Leaf	4-5	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Cucumber Slice	2	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Orange Slice	2	Muddle	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Hine V.S.O.P. Cognac	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	House Ginger Beer	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Mint Sprig	1	Garnish	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Martini Sweet Vermouth	.75oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Cherry Heering	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Lemon Juice	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.3 Cup	Marie Brizard Orange Curacao	.5oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
+no.8	Don Julio Reposado Tequila	2oz	Build	Coupe	Stir with ice and strain into a chilled coupe
+no.8	House Orange Bitters	2dashes	Build	Coupe	Stir with ice and strain into a chilled coupe
+no.8	Lemon Twist	1	Garnish	Coupe	Stir with ice and strain into a chilled coupe
+no.8	Lustau Palo Cortado Sherry	.75oz	Build	Coupe	Stir with ice and strain into a chilled coupe
+no.8	Barenjager Honey Liqueur	.5oz	Build	Coupe	Stir with ice and strain into a chilled coupe
 100 Year Punch	Fee Brothers Old Fashion Bitters	2dashes	Build	Rocks	Stir with ice and fine-strain into a chilled rocks glass filled with ice
 100 Year Punch	Bek Se Ju "100-year wine"	1oz	Build	Rocks	Stir with ice and fine-strain into a chilled rocks glass filled with ice
 100 Year Punch	Elijah Craig 12-Year-Old Bourbon	1oz	Build	Rocks	Stir with ice and fine-strain into a chilled rocks glass filled with ice
