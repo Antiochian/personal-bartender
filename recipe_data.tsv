@@ -1,4 +1,32 @@
 Drink	Ingredient	Amount	IngredientUse	Glass	HowToMix
+# MY RECIPES
+Simple Vodka Coke	Mexican Coca-Cola	1.5oz	Build	Solo Cup	Combine over ice, garnish with lime wedge.
+Simple Vodka Coke	Smirnoff Vodka	1.5oz	Build	Solo Cup	Combine over ice, garnish with lime wedge.
+Simple Vodka Coke	Lime Wedge	1	Garnish	Solo Cup	Combine over ice, garnish with lime wedge.
+
+Simple Gin & Tonic	Fever-Tree Tonic Water	2-4oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Simple Gin & Tonic	Tanqueray Gin	2oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Simple Gin & Tonic	Lime Wedge	1	Garnish	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+
+Screwdriver	Orange Juice	2oz	Build	Solo Cup	Combine over ice.
+Screwdriver	Smirnoff Vodka	2oz	Build	Solo Cup	Combine over ice.
+
+Sex on the Beach	Smirnoff Vodka	1.5oz	Build	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+Sex on the Beach	Peach Schnapps	0.75oz	Build	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+Sex on the Beach	Orange juice	2oz	Build	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+Sex on the Beach	Cranberry juice	1.5oz	Build	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+Sex on the Beach	Orange slices	2	Garnish	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+Sex on the Beach	Glacé cherries	2	Garnish	Collins	Pour the vodka, peach schnapps and fruit juices over ice and stir. Garnish with cherries and orange slice.
+
+Long Island Ice Tea	Belvedere Vodka	0.75oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Light rum	0.75oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Blanco Tequila	0.75oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Triple Sec	0.75oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Mexican Coca-Cola	1-2oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Sour mix	1oz	Build	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+Long Island Ice Tea	Lemon wedge	1	Garnish	Hurricane	Pour all ingredients into cocktail shaker and shake. Pour into chilled Hurricane glass and top with a splash of cola for colour.
+
+#DOWNLOADED RECIPES
 212	Partida Reposado Tequila	2oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
 212	Ruby Red Grapefruit Juice	2oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
 212	Aperol	1oz	Build	Collins glass	Shake with ice and strain into a chilled Collins glass filled with ice
@@ -137,7 +165,7 @@ Benton's Old-Fashioned	Deep Mountain Grade B Maple Syrup	.25oz	Build	Rocks	Stir 
 Berlioni	Tanqueray Gin	1.5oz	Build	Rocks	Stir with ice and strain over one large cube into a chilled rocks glass
 Berlioni	Orange Twist	1	Garnish	Rocks	Stir with ice and strain over one large cube into a chilled rocks glass
 Berlioni	Cynar	.75oz	Garnish	Rocks	Stir with ice and strain over one large cube into a chilled rocks glass
-Berlioni	Noilly Prat Dry Vermouth	.5oz	Garnish	Rocks	Stir with ice and strain over one large cube into a chilled rocks glass
+Berlioni	Noilly Prat Dry Vermouth	.5oz	Build	Rocks	Stir with ice and strain over one large cube into a chilled rocks glass
 Betsy Ross	Pierre Ferrand Ambre Cognac	2oz	Build	Coupe	Stir with ice and strain into a chilled coupe
 Betsy Ross	Angostura Bitters	2dashes	Build	Coupe	Stir with ice and strain into a chilled coupe
 Betsy Ross	Pinch Grated Nutmeg	1	Garnish	Coupe	Stir with ice and strain into a chilled coupe
@@ -578,10 +606,10 @@ Gimlet	Plymouth Gin	2oz	Build	Coupe	Shake with ice and strain into a chilled cou
 Gimlet	Lime Wheel	1	Garnish	Coupe	Shake with ice and strain into a chilled coupe
 Gimlet	Lime Cordial	.75oz	Build	Coupe	Shake with ice and strain into a chilled coupe
 Gimlet	Lime Juice	.75oz	Build	Coupe	Shake with ice and strain into a chilled coupe
-Gin & Tonic	Club Soda	3.5oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
-Gin & Tonic	Tanqueray Gin	2oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
-Gin & Tonic	Lime Wedge	1	Garnish	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
-Gin & Tonic	Tonic Syrup	.75oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Proper Gin & Tonic	Club Soda	3.5oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Proper Gin & Tonic	Tanqueray Gin	2oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Proper Gin & Tonic	Lime Wedge	1	Garnish	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
+Proper Gin & Tonic	Tonic Syrup	.75oz	Build	Collins	Add everything to a chilled Collins glass filled with ice and stir briefly
 Girl from Jerez	Mae de Ouro Cachaca	1oz	Build	Coupe	Shake with ice and strain into a chilled coupe
 Girl from Jerez	Rhum Clement V.S.O.P.	1oz	Build	Coupe	Shake with ice and strain into a chilled coupe
 Girl from Jerez	St. Elizabeth Allspice Dram	1barspoon	Build	Coupe	Shake with ice and strain into a chilled coupe
