@@ -10,5 +10,4 @@ Example usage:
 |:---:|
 |![protoype run](demo_cocktails_recc.gif) |
 |Searching for cocktails |
-|:---:|
 |![prototype run](demo_cocktails_search.gif)|
