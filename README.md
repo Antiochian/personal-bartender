@@ -5,4 +5,7 @@ Its a prototype!
 
 Example usage:
 ----
-![protoype run](prototype_demo.gif)
+
+| Getting reccomendations | Searching for cocktails |
+|:---:|:---:|
+|![protoype run](demo_cocktails_recc.gif) | ![prototype run](demo_cocktails_search.gif)
