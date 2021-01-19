@@ -1,7 +1,7 @@
 # personal-bartender
 If you tell it what ingredients you have, this program will list all the cocktails you can make
 
-Its a prototype - please don't look at the code!
+Its a prototype - pass no judgements yet!
 
 Example Demos:
 ----
